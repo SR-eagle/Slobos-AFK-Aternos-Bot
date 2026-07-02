@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js",
     "test": "node --check index.js"
-  },KERALA_MCP.aternos.me
+  },"KERALA_MCP.aternos.me". 
   "author": "Lamgerr",
   "license": "MIT",
   "dependencies": {
